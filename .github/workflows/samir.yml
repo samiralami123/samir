@@ -1,4 +1,4 @@
-name: samir
+name: samirRDP
 
 on: workflow_dispatch
 
